@@ -1,0 +1,7 @@
+{
+  "reuniao": "Oficina de dezembro",
+  "acoes": [
+    {"tarefa": "Revisar o material", "responsavel": "Bia", "prazo": "2026-12-11"},
+    {"tarefa": "Separar os cabos", "responsavel": "Rui", "prazo": "2026-12-12"}
+  ]
+}

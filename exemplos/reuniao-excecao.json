@@ -1,0 +1,7 @@
+{
+  "reuniao": "Próxima oficina",
+  "acoes": [
+    {"tarefa": "Reservar a sala", "responsavel": null, "prazo": "2026-12-09"},
+    {"tarefa": "Preparar a lista de presença", "responsavel": "Rui", "prazo": "2026-12-08"}
+  ]
+}
