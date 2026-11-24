@@ -1,6 +1,6 @@
 # Ensine Uma Vez
 
-[![Ensine Uma Vez](guia/assets/banner-es.jpg)](https://inematds.github.io/ensine-uma-vez/guia/es/)
+[![Ensine Uma Vez](guia/assets/banner-es.jpg)](https://linnoff88-dev.github.io/
 
 **🇧🇷 [Português](README.md) · 🇬🇧 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
@@ -8,7 +8,7 @@
 
 Ensine Uma Vez es un kit para convertir una conversación que salió bien en un procedimiento que la IA pueda repetir. Está pensado para quien todavía explica la misma tarea cada semana y quiere empezar a delegarla. Guarda las correcciones, prueba el procedimiento con un caso nuevo y decide cuándo puedes dejar de revisar cada entrega. Úsalo con Claude Code o Codex y con una tarea que ya hayas logrado hacer junto con la IA.
 
-[Paso a paso](https://inematds.github.io/ensine-uma-vez/guia/es/)
+[Paso a paso](https://linnoff88-dev.github.io/
 
 ## La escala de autonomía
 

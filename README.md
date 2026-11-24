@@ -1,4 +1,4 @@
-﻿# Ensine Uma Vez
+# Ensine Uma Vez
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,7 +6,7 @@
 </div>
 
 
-[![Ensine Uma Vez](guia/assets/banner-pt.jpg)](https://inematds.github.io/ensine-uma-vez/guia/)
+[![Ensine Uma Vez](guia/assets/banner-pt.jpg)](https://linnoff88-dev.github.io/
 
 **ðŸ‡§ðŸ‡· [PortuguÃªs](README.md) Â· ðŸ‡¬ðŸ‡§ [English](README.en.md) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](README.es.md)**
 
@@ -14,7 +14,7 @@
 
 Ensine Uma Vez Ã© um kit para transformar uma conversa que deu certo em um procedimento que a IA consegue repetir. Serve para quem ainda explica a mesma tarefa toda semana e quer comeÃ§ar a delegÃ¡-la. VocÃª guarda as correÃ§Ãµes, testa o procedimento com um novo caso e decide quando pode parar de revisar cada entrega. Use com Claude Code ou Codex e uma tarefa que vocÃª jÃ¡ conseguiu fazer junto com a IA.
 
-[Passo a passo](https://inematds.github.io/ensine-uma-vez/guia/)
+[Passo a passo](https://linnoff88-dev.github.io/
 
 ## A escada de autonomia
 

@@ -1,6 +1,6 @@
 # Ensine Uma Vez
 
-[![Ensine Uma Vez](guia/assets/banner-en.jpg)](https://inematds.github.io/ensine-uma-vez/guia/en/)
+[![Ensine Uma Vez](guia/assets/banner-en.jpg)](https://linnoff88-dev.github.io/
 
 **🇧🇷 [Português](README.md) · 🇬🇧 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
@@ -8,7 +8,7 @@
 
 Ensine Uma Vez is a kit for turning a conversation that went well into a procedure AI can repeat. It is for people who still explain the same task every week and want to start delegating it. You save the corrections, test the procedure with a new case, and decide when you can stop reviewing every deliverable. Use it with Claude Code or Codex and a task you have already completed with AI.
 
-[Step-by-step guide](https://inematds.github.io/ensine-uma-vez/guia/en/)
+[Step-by-step guide](https://linnoff88-dev.github.io/
 
 ## The autonomy ladder
 
