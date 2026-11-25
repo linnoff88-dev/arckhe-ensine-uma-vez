@@ -1,5 +1,5 @@
 {
-  "reuniao": "Preparação da oficina",
+  "reuniao": "Preparaçêo da oficina",
   "acoes": [
     {"tarefa": "Enviar o convite", "responsavel": "Ana", "prazo": "2026-12-02"},
     {"tarefa": "Testar o microfone", "responsavel": "Rui", "prazo": "2026-12-03"}

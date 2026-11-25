@@ -1,4 +1,4 @@
-"""Ensaia a regra de uma rotina de reunião com dados fictícios e saída local."""
+"""Ensaia a regra de uma rotina de reuniêo com dados fictícios e saída local."""
 
 import argparse
 from datetime import date
@@ -10,7 +10,7 @@ def prepare(meeting):
     rows = []
     issues = []
     for index, action in enumerate(meeting["acoes"], 1):
-        task = action.get("tarefa") or f"Ação {index}"
+        task = action.get("tarefa") or f"Açêo {index}"
         owner = action.get("responsavel")
         deadline = action.get("prazo")
         if not isinstance(owner, str) or not owner.strip():
@@ -41,7 +41,7 @@ def main():
         status = 2
     else:
         name = "revisar" if args.nivel == "4" else "entregue"
-        content = f"# {meeting['reuniao']}\n\n| Ação | Responsável | Prazo |\n|---|---|---|\n"
+        content = f"# {meeting['reuniao']}\n\n| Açêo | Responsável | Prazo |\n|---|---|---|\n"
         content += "\n".join("| " + " | ".join(map(markdown_cell, row)) + " |" for row in rows)
         if issues:
             content += "\n\n## Pendências\n\n" + "\n".join(f"- {item}" for item in issues)
